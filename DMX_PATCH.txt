@@ -1,0 +1,196 @@
+================================================================================
+LIGHT SHOW SETUP - DMX PATCH CONFIGURATION
+================================================================================
+
+RIG CONFIGURATION:
+- 2x Ayra ERO Micro Spot LED moving head
+- 2x Ayra ERO Micro Beam FX
+- 1x Cameo THUNDER WASH 100 RGB strobe / blinder / wash
+
+TOTAL DMX CHANNELS: 65 (single universe)
+
+================================================================================
+DMX ADDRESS PATCH
+================================================================================
+
+FIXTURE 1: Ayra ERO Micro Spot LED (Moving Head)
+  DMX Start Address: 1
+  DMX Channels: 16
+  DMX Range: 1-16
+  Mode: Full control (Pan, Tilt, Color, Intensity, Gobo, etc.)
+
+FIXTURE 2: Ayra ERO Micro Spot LED (Moving Head)
+  DMX Start Address: 17
+  DMX Channels: 16
+  DMX Range: 17-32
+  Mode: Full control (Pan, Tilt, Color, Intensity, Gobo, etc.)
+
+FIXTURE 3: Ayra ERO Micro Beam FX
+  DMX Start Address: 33
+  DMX Channels: 16
+  DMX Range: 33-48
+  Mode: Full control (Pan, Tilt, Beam width, Intensity, Color, etc.)
+
+FIXTURE 4: Ayra ERO Micro Beam FX
+  DMX Start Address: 49
+  DMX Channels: 16
+  DMX Range: 49-64
+  Mode: Full control (Pan, Tilt, Beam width, Intensity, Color, etc.)
+
+FIXTURE 5: Cameo THUNDER WASH 100
+  DMX Start Address: 65
+  DMX Channels: Varies (typically 4-8 channels)
+  DMX Range: 65+
+  Typical channels:
+    - Dimmer/Intensity (65)
+    - Red (66)
+    - Green (67)
+    - Blue (68)
+
+================================================================================
+FIXTURE GROUPS (for easier control in Sunlite/Daslight)
+================================================================================
+
+GROUP A: SPOTS (Beams)
+  Fixtures: Spot 1 (DMX 1), Spot 2 (DMX 17)
+  Purpose: Main moving-head beams, color sweeps, pan/tilt movement
+
+GROUP B: BEAM FX (Aggressive Beams)
+  Fixtures: Beam FX 1 (DMX 33), Beam FX 2 (DMX 49)
+  Purpose: Tight beam effects, tunnels, fast movement, strobe patterns
+
+GROUP C: WASH (Blinder & Wash)
+  Fixtures: Cameo Thunder Wash 100 (DMX 65)
+  Purpose: Strobe bursts, white blinder hits, RGB wash background
+
+================================================================================
+CONTROL SETTINGS FOR EACH FIXTURE TYPE
+================================================================================
+
+AYRA ERO MICRO SPOT LED:
+  - Pan Range: 0-540° (fast movement recommended)
+  - Tilt Range: 0-270° (fast movement recommended)
+  - Color Mode: RGB or preset colors
+  - Intensity: 0-100%
+  - Gobo: Standard rotating gobo wheel (if available)
+  - Focus: Sharp and narrow beam preferred
+
+AYRA ERO MICRO BEAM FX:
+  - Pan Range: 0-540° (very fast movement)
+  - Tilt Range: 0-270° (very fast movement)
+  - Beam Width: Tight/narrow (5-15°)
+  - Color Mode: RGB
+  - Intensity: 0-100%
+  - Strobe: Built-in strobe frequency control
+
+CAMEO THUNDER WASH 100:
+  - Dimmer: 0-100%
+  - Red: 0-100%
+  - Green: 0-100%
+  - Blue: 0-100%
+  - Strobe: Frequency adjustable or on/off
+  - Focus: Wide wash coverage (120° recommended)
+
+================================================================================
+SUNLITE SUITE IMPORT INSTRUCTIONS
+================================================================================
+
+1. Open Sunlite Suite
+2. Go to: Fixture > Patch / Scan Library
+3. For each fixture, click "Add Fixture"
+4. Search for:
+   - "Ayra ERO Micro Spot LED" (add 2 of these)
+   - "Ayra ERO Micro Beam FX" (add 2 of these)
+   - "Cameo THUNDER WASH 100" (add 1 of these)
+5. Set DMX addresses as listed above
+6. Verify in the Matrix View that all 5 fixtures are patched correctly
+7. Test each fixture individually to confirm DMX communication
+
+================================================================================
+DASLIGHT IMPORT INSTRUCTIONS
+================================================================================
+
+1. Open Daslight
+2. Go to: Scan Library or Patch
+3. Click "Add Fixture" for each device
+4. Search manufacturer and model:
+   - Ayra > ERO Micro Spot LED
+   - Ayra > ERO Micro Beam FX
+   - Cameo > THUNDER WASH 100
+5. Set DMX Start Address for each:
+   - Spot 1: 1
+   - Spot 2: 17
+   - Beam FX 1: 33
+   - Beam FX 2: 49
+   - Cameo: 65
+6. Arrange fixtures in the 3D Visualizer if desired
+7. Test output by moving each fixture manually in Live Mode
+
+================================================================================
+QUICK FIXTURE REFERENCE
+================================================================================
+
+SPOT 1 (DMX 1-16):
+- Pan: Channel 1
+- Tilt: Channel 2
+- Color: Channels 4-6 (RGB) or Channel 7 (Preset)
+- Intensity/Dimmer: Channel 3
+- Gobo: Channel 8 (if applicable)
+
+SPOT 2 (DMX 17-32):
+- Pan: Channel 17
+- Tilt: Channel 18
+- Color: Channels 20-22 (RGB) or Channel 23 (Preset)
+- Intensity/Dimmer: Channel 19
+- Gobo: Channel 24 (if applicable)
+
+BEAM FX 1 (DMX 33-48):
+- Pan: Channel 33
+- Tilt: Channel 34
+- Beam Width: Channel 35
+- Color: Channels 37-39 (RGB)
+- Intensity/Dimmer: Channel 36
+- Strobe: Channel 40 (if applicable)
+
+BEAM FX 2 (DMX 49-64):
+- Pan: Channel 49
+- Tilt: Channel 50
+- Beam Width: Channel 51
+- Color: Channels 53-55 (RGB)
+- Intensity/Dimmer: Channel 52
+- Strobe: Channel 56 (if applicable)
+
+CAMEO THUNDER WASH 100 (DMX 65+):
+- Dimmer: Channel 65
+- Red: Channel 66
+- Green: Channel 67
+- Blue: Channel 68
+- Strobe: Channel 69 (if applicable)
+
+================================================================================
+NOTES & BEST PRACTICES
+================================================================================
+
+1. Universe: This patch uses only DMX Universe 1 (channels 1-512)
+2. Headroom: You have plenty of unused channels (69-512) for future expansion
+3. Movement Speed: Set fixture pan/tilt speed to FAST for club/techno shows
+4. Beam Width: Keep Beam FX at tight/narrow setting for maximum impact
+5. Color Accuracy: Test RGB colors before the show (white balance)
+6. Strobe Safety: Use strobe responsibly; check venue frequency regulations
+7. Backup: Save your patch file after every change
+
+================================================================================
+EXPORT/SAVE OPTIONS
+================================================================================
+
+SUNLITE SUITE:
+- File > Export Patch as XML
+- File > Save Showfile
+
+DASLIGHT:
+- File > Save Showfile (.d3s format)
+- Patch is automatically saved in showfile
+
+================================================================================
+END OF PATCH CONFIGURATION
+================================================================================
