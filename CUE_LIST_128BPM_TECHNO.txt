@@ -1,0 +1,452 @@
+================================================================================
+HARD TECHNO LIGHT SHOW - CUE LIST FOR SUNLITE / DASLIGHT
+================================================================================
+
+SHOW CONFIGURATION:
+- Tempo: 128 BPM
+- Time Signature: 4/4
+- Total Duration: 4 minutes 48 seconds
+- Number of Cues: 14
+- Beat Duration: 0.46875 seconds
+
+FIXTURE SETUP:
+- Spot 1 (DMX 1): Ayra ERO Micro Spot LED
+- Spot 2 (DMX 17): Ayra ERO Micro Spot LED
+- Beam FX 1 (DMX 33): Ayra ERO Micro Beam FX
+- Beam FX 2 (DMX 49): Ayra ERO Micro Beam FX
+- Cameo (DMX 65): Cameo THUNDER WASH 100
+
+================================================================================
+CUE-BY-CUE BREAKDOWN (128 BPM, 4/4 Time)
+================================================================================
+
+CUE 01: BUILD / BLACKOUT
+Time: 00:00.0 - 00:07.5 | Bars 1-4 (8 beats)
+Fade In: 0.3 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       OFF (Intensity 0%)
+  Spot 2:       OFF (Intensity 0%)
+  Beam FX 1:    OFF (Intensity 0%)
+  Beam FX 2:    OFF (Intensity 0%)
+  Cameo:        Red pulse at 10% intensity, strobe flicker on beats 1 & 9
+
+EFFECT NOTES:
+- Almost complete blackout with minimal red ambience
+- Create anticipation; very dark
+- Moving heads idle at 0% but ready to move on next cue
+
+---
+
+CUE 02: COLD WHITE BUILD
+Time: 00:07.5 - 00:15.0 | Bars 5-8 (8 beats)
+Fade In: 1.0 second | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       Cold white (RGB: 255, 255, 255) at 25% intensity
+                Pan: Center, Tilt: Center, slow movement
+  Spot 2:       Cold white (RGB: 255, 255, 255) at 25% intensity
+                Pan: Center, Tilt: Center, slow movement
+  Beam FX 1:    Cold white (RGB: 255, 255, 255) at 15% intensity
+                Narrow beam, tiny pan/tilt movement
+  Beam FX 2:    Cold white (RGB: 255, 255, 255) at 15% intensity
+                Narrow beam, tiny pan/tilt movement
+  Cameo:        Cold white wash at 30% intensity, no strobe
+
+EFFECT NOTES:
+- Slow, building introduction
+- All white to establish "cold" tone
+- Minimal movement to avoid distraction
+
+---
+
+CUE 03: CYAN / BLUE SWEEP
+Time: 00:15.0 - 00:22.5 | Bars 9-12 (8 beats)
+Fade In: 1.5 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       Cyan (RGB: 0, 255, 255) at 35% intensity
+                Pan: Left to right sweep, medium speed
+  Spot 2:       Blue (RGB: 0, 0, 255) at 35% intensity
+                Pan: Right to left sweep, medium speed
+  Beam FX 1:    Cyan/Blue alternating, 25% intensity
+                Diagonal sweep from top-left to bottom-right
+  Beam FX 2:    Blue/Cyan alternating, 25% intensity
+                Diagonal sweep from bottom-right to top-left
+  Cameo:        Cyan-blue wash at 25% intensity
+                Pulse strobe every 4 beats (beats 1, 5, 9, 13)
+
+EFFECT NOTES:
+- Introduce color and movement
+- Opposite movement creates dynamic feel
+- Slow strobe pulse, not aggressive yet
+
+---
+
+CUE 04: FIRST CLUB HIT
+Time: 00:22.5 - 00:30.0 | Bars 13-16 (8 beats)
+Fade In: 0.4 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       RGB cycle: Red (255,0,0) → Green (0,255,0) → Blue (0,0,255)
+                50% intensity, fast pan/tilt movement
+  Spot 2:       RGB cycle: Blue → Green → Red (opposite phase)
+                50% intensity, fast pan/tilt movement
+  Beam FX 1:    RGB cycle in tight chase pattern
+                40% intensity, left-right beam sweep
+  Beam FX 2:    RGB cycle in tight chase pattern
+                40% intensity, right-left beam sweep
+  Cameo:        Strobe bursts on beats 1, 5, 9, 13 at full intensity
+                Between bursts: dim to 20%
+
+EFFECT NOTES:
+- First aggressive moment
+- Color changes and strobe start hitting
+- Fast movement across stage
+- This is the "drop" build-up
+
+---
+
+CUE 05: RED ATTACK
+Time: 00:30.0 - 00:37.5 | Bars 17-20 (8 beats)
+Fade In: 0.2 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       Red (255, 0, 0) at 60% intensity
+                Aggressive pan/tilt: left to center
+  Spot 2:       White (255, 255, 255) at 60% intensity
+                Aggressive pan/tilt: right to center
+  Beam FX 1:    Red (255, 0, 0) at 50% intensity
+                Fast beam pulse, tight focus
+  Beam FX 2:    Red (255, 0, 0) at 50% intensity
+                Fast beam pulse, tight focus
+  Cameo:        White blinder hit on beats 1 and 9 (100% intensity)
+                Red pulse on other beats at 50%
+
+EFFECT NOTES:
+- Classic techno: red + white contrast
+- Sharp fade-in creates impact
+- High intensity for peak energy
+- Aggressive movement toward center stage
+
+---
+
+CUE 06: FULL BEAM CHASE
+Time: 00:37.5 - 00:45.0 | Bars 21-24 (8 beats)
+Fade In: 0.5 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       RGB color (your choice: magenta, green, or white)
+                Pan: Far left, Tilt: Medium, 60% intensity
+  Spot 2:       RGB color (opposite of Spot 1 or complementary)
+                Pan: Far right, Tilt: Medium, 60% intensity
+  Beam FX 1:    RGB color, 55% intensity
+                Pan: Center, Tilt: Top, tight beam
+  Beam FX 2:    RGB color (opposite), 55% intensity
+                Pan: Center, Tilt: Bottom, tight beam
+  Cameo:        Purple/Blue wash (RGB: 128, 0, 255) at 40% intensity
+                Pulse strobe every 2 beats
+
+EFFECT NOTES:
+- Cross-pattern movement creates spatial dynamics
+- Beam FX create tunnel effect in center
+- Medium strobe pace (every 2 beats)
+- High energy but controlled
+
+---
+
+CUE 07: MAGENTA TUNNEL
+Time: 00:45.0 - 00:52.5 | Bars 25-28 (8 beats)
+Fade In: 0.3 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       Magenta (255, 0, 255) at 70% intensity
+                Fast pan/tilt: spin clockwise
+  Spot 2:       Purple (200, 0, 255) at 70% intensity
+                Fast pan/tilt: spin counter-clockwise
+  Beam FX 1:    Magenta (255, 0, 255) at 65% intensity
+                Diagonal sweep, tunnel effect
+  Beam FX 2:    Magenta (255, 0, 255) at 65% intensity
+                Opposite diagonal sweep
+  Cameo:        Heavy strobe (on/off every beat) at 80% intensity
+                Purple/White alternation
+
+EFFECT NOTES:
+- Very aggressive, high-energy moment
+- Tunnel effect from beam FX
+- Fast spins create vertigo/dancing vibe
+- Heavy strobe for peak impact
+- This is the "peak drop"
+
+---
+
+CUE 08: MAIN DROP
+Time: 00:52.5 - 01:00.0 | Bars 29-32 (8 beats)
+Fade In: 0.2 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       White (255, 255, 255) at 90% intensity
+                Fast pan sweep: left to right
+  Spot 2:       White (255, 255, 255) at 90% intensity
+                Fast pan sweep: right to left
+  Beam FX 1:    RGB rapid cycle (change color every beat)
+                85% intensity, very fast movement
+  Beam FX 2:    RGB rapid cycle (opposite phase)
+                85% intensity, very fast movement
+  Cameo:        Full white blast (100% intensity)
+                Pulse RGB colors on offbeats
+
+EFFECT NOTES:
+- Maximum intensity (except strobe)
+- White spots create "wall of light" effect
+- Beam FX do rapid color changes
+- Cameo alternates white and RGB
+- This is the absolute peak moment
+
+---
+
+CUE 09: STROBE TUNNEL
+Time: 01:00.0 - 01:07.5 | Bars 33-36 (8 beats)
+Fade In: 0.2 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       White (255, 255, 255) at 80% intensity
+                Alternating: left pan, hold 0.5s, right pan, hold 0.5s
+  Spot 2:       White (255, 255, 255) at 80% intensity
+                Alternating: right pan, hold 0.5s, left pan, hold 0.5s
+  Beam FX 1:    White (255, 255, 255) at 75% intensity
+                Narrow beam tunnel sweep, straight across
+  Beam FX 2:    White (255, 255, 255) at 75% intensity
+                Narrow beam tunnel sweep, opposite direction
+  Cameo:        Strobe every beat (on 0.1s, off 0.368s) at 100% intensity
+
+EFFECT NOTES:
+- Very hard contrast between light and dark
+- Strobe on every beat creates disorientation effect
+- Beam FX tunnel effect is central focus
+- Moving heads create frame/wall around tunnel
+- Maximum club/techno impact
+
+---
+
+CUE 10: GREEN / CYAN CHASE
+Time: 01:07.5 - 01:15.0 | Bars 37-40 (8 beats)
+Fade In: 1.0 second | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       Green (0, 255, 0) at 60% intensity
+                Medium-speed pan/tilt movement
+  Spot 2:       Cyan (0, 255, 255) at 60% intensity
+                Medium-speed pan/tilt movement (opposite phase)
+  Beam FX 1:    Green/Cyan alternating, 55% intensity
+                Chase pattern, medium movement
+  Beam FX 2:    Cyan/Green alternating, 55% intensity
+                Chase pattern, opposite direction
+  Cameo:        Green-white pulse (RGB: 0, 255, 0) at 50% intensity
+                Light strobe every 3-4 beats
+
+EFFECT NOTES:
+- Energy is starting to cool down from peak
+- Green/cyan = fresh, "industrial rave" vibe
+- Chase pattern maintains momentum
+- Longer fade-in allows transition from strobe
+- Still aggressive but becoming rhythmic
+
+---
+
+CUE 11: WHITE BUILD
+Time: 01:15.0 - 01:22.5 | Bars 41-44 (8 beats)
+Fade In: 2.0 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       White (255, 255, 255) at 50% intensity
+                Pan: Center, Tilt: Center, no movement
+  Spot 2:       White (255, 255, 255) at 50% intensity
+                Pan: Center, Tilt: Center, no movement
+  Beam FX 1:    White (255, 255, 255) at 40% intensity
+                Narrow beam, slight slow pan
+  Beam FX 2:    White (255, 255, 255) at 40% intensity
+                Narrow beam, slight slow pan (opposite)
+  Cameo:        White wash at 35% intensity
+                Flicker effect (dim 20%, bright 35%, repeat every 1-2 beats)
+
+EFFECT NOTES>
+- Wind-down from peak
+- All white, static/slow positions
+- Ambience is calmer but still active
+- Cameo flicker adds suspense for final build
+- This is the "breath before final rush"
+
+---
+
+CUE 12: FINAL TECHNO RUSH
+Time: 01:22.5 - 01:30.0 | Bars 45-48 (8 beats)
+Fade In: 0.2 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       RGB rapid cycle (change every beat), 80% intensity
+                Aggressive pan/tilt rotation
+  Spot 2:       RGB rapid cycle (opposite phase), 80% intensity
+                Aggressive pan/tilt rotation (counter)
+  Beam FX 1:    RGB rapid cycle, 75% intensity
+                Very fast beam movement, chaotic but energetic
+  Beam FX 2:    RGB rapid cycle, 75% intensity
+                Very fast beam movement (opposite)
+  Cameo:        Blinder bursts every 2 beats (100% intensity for 0.2s)
+                Between bursts: full RGB pulse
+
+EFFECT NOTES:
+- High-energy return to peak
+- All fixtures changing color rapidly
+- Very fast movement creates chaotic/euphoric vibe
+- Cameo bursts anchor the rhythm
+- This is the "final push" before climax
+
+---
+
+CUE 13: FINAL WHITE HIT
+Time: 01:30.0 - 01:37.5 | Bars 49-52 (8 beats)
+Fade In: 0.1 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       White (255, 255, 255) at 95% intensity
+                Pan: Center, Tilt: Center, locked in place
+  Spot 2:       White (255, 255, 255) at 95% intensity
+                Pan: Center, Tilt: Center, locked in place
+  Beam FX 1:    White (255, 255, 255) at 90% intensity
+                Narrow, intense beam burst
+  Beam FX 2:    White (255, 255, 255) at 90% intensity
+                Narrow, intense beam burst (opposite tilt)
+  Cameo:        Full white blinder (100% intensity)
+                Single bright flash lasting entire cue
+
+EFFECT NOTES:
+- Ultra-fast fade-in creates maximum impact
+- Pure white "wall of light"
+- All fixtures at near-maximum
+- No movement, all centered/locked
+- This is the final climactic moment
+- Audience gets "blinded" for split second
+
+---
+
+CUE 14: BLACKOUT / END
+Time: 01:37.5 - 01:45.0 | Bars 53-56 (8 beats)
+Fade Out: 3.0 seconds | Hold: 7.5 seconds
+
+FIXTURE SETTINGS:
+  Spot 1:       OFF (Intensity 0%)
+  Spot 2:       OFF (Intensity 0%)
+  Beam FX 1:    OFF (Intensity 0%)
+  Beam FX 2:    OFF (Intensity 0%)
+  Cameo:        OFF (Intensity 0%)
+
+EFFECT NOTES:
+- Slow 3-second fade to black
+- Audience adjusts from bright finale to darkness
+- Creates moment of silence/rest
+- Allows transition to next song or show
+
+================================================================================
+TIMING REFERENCE CHART (128 BPM)
+================================================================================
+
+Beat Duration: 0.46875 seconds
+Bar Duration (4 beats): 1.875 seconds
+8 Bars: 15 seconds
+
+Reference:
+1 beat = 0.46875s
+2 beats = 0.9375s
+4 beats = 1.875s
+8 beats = 3.75s
+16 beats = 7.5s
+
+Strobe frequency options (128 BPM):
+- Every beat: 128 Hz
+- Every 2 beats: 64 Hz
+- Every 4 beats: 32 Hz
+
+================================================================================
+HOW TO IMPORT INTO SUNLITE SUITE
+================================================================================
+
+1. Open Sunlite Suite
+2. Go to: View > Scenes (or press Scenes tab)
+3. Create a new scene for each cue:
+   - Right-click > New Scene
+   - Name it: "CUE 01 - Build / Blackout"
+   - Set fixture intensities and colors as listed
+   - Save
+
+4. Create a Chase or Timeline:
+   - Go to: Chases > New Chase
+   - Add scenes in order (CUE 01, CUE 02, etc.)
+   - Set fade times and step duration
+   - Enable AutoStep with timing as shown
+
+5. Timing adjustment:
+   - Each cue should run for 7.5 seconds (hold time)
+   - Set fade time as specified per cue
+
+6. Test in Live mode before show
+
+================================================================================
+HOW TO IMPORT INTO DASLIGHT
+================================================================================
+
+1. Open Daslight
+2. Create Scenes (cues):
+   - Go to: Step/Scene window
+   - New Scene for each CUE
+   - Name it: "CUE 01 - Build"
+   - Adjust all fixtures to settings listed
+   - Save
+
+3. Build a Chase:
+   - Go to: Chaselist
+   - New Chase
+   - Add all 14 scenes in order
+   - Enable AutoStep
+
+4. Set Timing:
+   - Step Duration: 7.5 seconds per cue
+   - Fade Time: As listed for each cue
+   - Tempo: Sync to 128 BPM if available
+
+5. Test in Live Mode
+6. Export as .d3s file for backup
+
+================================================================================
+COLOR REFERENCE (RGB VALUES)
+================================================================================
+
+Cold White:       (255, 255, 255)
+Red:              (255, 0, 0)
+Green:            (0, 255, 0)
+Blue:             (0, 0, 255)
+Cyan:             (0, 255, 255)
+Magenta:          (255, 0, 255)
+Purple:           (200, 0, 255)
+Yellow:           (255, 255, 0)
+Warm White:       (255, 200, 100)
+Amber:            (255, 191, 0)
+
+For RGB Cycle effect:
+Sequence: Red → Green → Blue → Red
+Repeat every 4-8 beats depending on cue speed
+
+================================================================================
+LIVE MODE TIPS FOR DJ USE
+================================================================================
+
+1. Use manual stepping between cues if you want to sync to actual music
+2. Override intensity levels for dramatic moments
+3. Add ad-hoc strobe bursts using Cameo manual control
+4. You can extend any cue by holding AutoStep and manually advancing
+5. Use Pan/Tilt manual override for ad-hoc movement
+6. Save a backup of this show immediately after setup
+
+================================================================================
+END OF CUE LIST
+================================================================================
